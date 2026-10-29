@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:5026A7,70:8B36DB,100:11B4C8&height=230&section=header&text=Alexey%20Sazonov&fontSize=48&fontColor=FFFFFF&fontAlignY=37&desc=AI%20Developer%20%7C%20Vibe%20Coder&descSize=21&descAlignY=59&animation=fadeIn" alt="Alexey Sazonov — AI Developer & Vibe Coder" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:5026A7,70:8B36DB,100:11B4C8&height=230&section=header&text=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%A1%D0%B0%D0%B7%D0%BE%D0%BD%D0%BE%D0%B2&fontSize=48&fontColor=FFFFFF&fontAlignY=37&desc=AI-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%7C%20%D0%92%D0%B0%D0%B9%D0%B1%D0%BA%D0%BE%D0%B4%D0%B5%D1%80&descSize=21&descAlignY=59&animation=fadeIn" alt="Алексей Сазонов — AI-разработчик и вайбкодер" width="100%" />
 
 <a href="#-обо-мне"><img src="https://img.shields.io/badge/Русский-7048E8?style=for-the-badge" alt="Русский" /></a>
 <a href="#-about-me"><img src="https://img.shields.io/badge/English-087F8C?style=for-the-badge" alt="English" /></a>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=9B72F2&center=true&vCenter=true&width=680&lines=AI+Developer+%26+Vibe+Coder;Full-Stack+Web+Applications;AI+Assistants+%26+Automation;Creative+Design+%26+Digital+Products" alt="Animated specializations" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=9B72F2&center=true&vCenter=true&width=680&lines=AI-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8+%D0%B2%D0%B0%D0%B9%D0%B1%D0%BA%D0%BE%D0%B4%D0%B5%D1%80;%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B3%D0%BE+%D1%86%D0%B8%D0%BA%D0%BB%D0%B0;AI-%D0%B0%D1%81%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%82%D1%8B+%D0%B8+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F;%D0%9A%D1%80%D0%B5%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9+%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD+%D0%B8+%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5+%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B" alt="Анимированные специализации" />
 
 <br />
 
-<a href="mailto:borisytch1964@yandex.ru"><img src="https://img.shields.io/badge/Email-Contact%20me-AC4FC6?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
+<a href="mailto:borisytch1964@yandex.ru"><img src="https://img.shields.io/badge/Почта-Написать-AC4FC6?style=flat-square&logo=maildotru&logoColor=white" alt="Написать на почту" /></a>
 <a href="https://github.com/OldZepp"><img src="https://img.shields.io/badge/GitHub-OldZepp-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=OldZepp&label=Profile%20views&color=8B5CF6&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=OldZepp&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B%20%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F&color=8B5CF6&style=flat-square" alt="Просмотры профиля" />
 
 </div>
 
